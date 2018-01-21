@@ -1,11 +1,8 @@
 git is a distributed version control system.
-git is freee software distributed under the gpl.
+git is a freee software distributed under the gpl.
 git has a mutable index called stage.
 git tracks changes of files.
-<<<<<<< HEAD
 creat a new branch is quick and simple.
-=======
-creatng  a new branch is quick and simple.
->>>>>>> feature1
+
 123123123123123123123123123123123123
 
